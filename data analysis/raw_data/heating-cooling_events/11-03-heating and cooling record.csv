@@ -1,0 +1,10 @@
+#group,false,false,false,false
+#datatype,string,string,string,dateTime:RFC3339
+#default,,,,
+,device,object,status,time
+,ESP32-C6,pipe,start,2025-03-11T14:33:19.341888996Z
+,ESP32-C6,pipe,stop,2025-03-11T15:05:26.922586059Z
+,ESP32-C6,pipe,start,2025-03-11T15:35:42.090678792Z
+,ESP32-C6,pipe,stop,2025-03-11T15:35:51.609724063Z
+,ESP32-C6,pipe,start,2025-03-11T15:50:23.027775031Z
+,ESP32-C6,tongue,start,2025-03-11T14:38:53.472024841Z
